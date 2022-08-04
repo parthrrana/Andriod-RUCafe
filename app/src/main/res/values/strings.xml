@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AndroidRUCafe</string>
+    <string name="donutButton">Order Donut</string>
+    <string name="coffeeButton">Order Coffee</string>
+    <string name="yourOrder">Your Order</string>
+    <string name="storeOrder">Store Order</string>
+
+    <string name="milk">Milk</string>
+    <string name="cream">Cream</string>
+    <string name="syrup">Syrup</string>
+    <string name="caramel">Caramel</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="startSubtotal">$0.00</string>
+    <string name="addToOrder">Add to Order</string>
+    <string name="addToCart">Add to Cart</string>
+    <string name="removeItem">Remove Item</string>
+    <string name="subTotal">sub-total</string>
+    <string name="salesTax">sales-tax</string>
+    <string name="total">total</string>
+    <string name="placeOrder">Place Order</string>
+    <string name="orderNumber">Order Number</string>
+    <string name="cancelOrder">Cancel Order</string>
+    <string name="add">+</string>
+    <string name="removeFromCart">Remove From Cart</string>
+
+    <string-array name="donutFlavors">
+        <item>Jelly</item>
+        <item>Glazed</item>
+        <item>Chocolate Frosted</item>
+        <item>Lemon Filled</item>
+        <item>Sugar</item>
+        <item>Strawberry Frosted</item>
+        <item>Cinnamon Sugar</item>
+        <item>Old Fashion</item>
+        <item>Blueberry</item>
+        <item>Glazed Holes</item>
+        <item>Jelly Holes</item>
+        <item>Cinnamon Sugar</item>
+    </string-array>
+</resources>
